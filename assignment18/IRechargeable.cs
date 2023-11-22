@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace assignment18
+{
+    internal interface IRechargeable
+    {
+        
+        
+            void Recharge(int minutes);
+        
+    }
+}
+
